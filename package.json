@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "superagent": "^8.0.9"
+  },
+  "name": "ngs-replay-downloader",
+  "description": "This will gather replays from an NGS season.",
+  "version": "1.0.0",
+  "main": "download.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaryIrick/ngs-replay-downloader.git"
+  },
+  "author": "Gary Irick",
+  "license": "MIT"
+}

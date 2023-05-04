@@ -1,3 +1,8 @@
+# Don't check in the replays that have been downloaded!
+replays
+
+.vscode
+
 # Logs
 logs
 *.log
