@@ -1,5 +1,3 @@
-# Don't check in the replays that have been downloaded!
-replays
 
 .vscode
 
@@ -133,3 +131,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Don't check in the files we download or generate.
+replays
+*.csv
